@@ -214,3 +214,9 @@ The `AgentExecutor` runs the agent step by step and manages:
 - parsing errors,
 - maximum iteration limits,
 - and verbose logging.
+
+### 11. Run the use case
+The input task is:
+
+```python
+"Use Python to calculate factorial of 6"
