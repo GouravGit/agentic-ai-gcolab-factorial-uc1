@@ -23,7 +23,7 @@ This repository uses a simple mathematical task — **calculating the factorial 
 - [How the Code Works](#how-the-code-works)
 - [How to Run](#how-to-run)
 - [Expected Output](#expected-output)
-- [What This Project Teaches](#what-i-learned) 
+- [What I Learned](#what-i-learned) 
 - [Known Notes](#known-notes)
 - [Possible Enhancements](#possible-enhancements)
 - [License](#license)
@@ -250,7 +250,7 @@ Because:
 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720
 ```
 
-## What This Project Teaches
+## What I Learned
 
 This project is useful for understanding:
 
