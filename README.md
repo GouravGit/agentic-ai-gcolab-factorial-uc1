@@ -161,3 +161,4 @@ The code loads:
 
 ```text
 Qwen/Qwen2.5-1.5B-Instruct
+This model is used as the reasoning engine for the agent.
