@@ -97,12 +97,3 @@ Run Python Tool
 Observe Result
    ↓
 Final Answer
-
-flowchart TD
-    A[User Input] --> B[Prompt Template]
-    B --> C[LLM Reasoning]
-    C --> D{Need Python Tool?}
-    D -- Yes --> E[PythonREPLTool]
-    E --> F[Observation]
-    F --> C
-    D -- No --> G[Final Answer]
