@@ -23,7 +23,8 @@ This repository uses a simple mathematical task — **calculating the factorial 
 - [How the Code Works](#how-the-code-works)
 - [How to Run](#how-to-run)
 - [Expected Output](#expected-output)
-- [What This Project Teaches](#what-this-project-teaches) 
+- [What This Project Teaches](#what-this-project-teaches)
+- [Mental Model](#mental-model)
 - [Known Notes](#known-notes)
 - [Possible Enhancements](#possible-enhancements)
 - [License](#license)
@@ -260,3 +261,13 @@ This project is useful for understanding:
 - how LangChain agents are structured,
 - how a Python tool can be integrated into an agent workflow,
 - how to design a beginner-friendly Agentic AI experiment in Google Colab.
+
+## Mental Model
+
+A simple way to understand the overall architecture is:
+
+- **LLM** = the brain
+- **Tool** = the hands
+- **Prompt** = the instructions
+- **Agent** = the decision-maker
+- **Executor** = the workflow runner
