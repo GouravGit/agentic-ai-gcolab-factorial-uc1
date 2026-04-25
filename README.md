@@ -111,3 +111,17 @@ flowchart TD
     E --> F[Observation]
     F --> C
     D -- No --> G[Final Answer]
+```
+
+## Tech Stack
+
+This project is built using the following tools and frameworks:
+
+- **Python** — core programming language
+- **Google Colab** — notebook environment for development and execution
+- **LangChain Classic** — agent framework components
+- **LangChain Experimental** — experimental tools such as `PythonREPLTool`
+- **LangChain Hugging Face** — integration between LangChain and Hugging Face models
+- **Hugging Face Transformers** — model and tokenizer loading
+- **Accelerate** — model execution support
+- **Qwen/Qwen2.5-1.5B-Instruct** — instruction-tuned language model used as the reasoning engine
